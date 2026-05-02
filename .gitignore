@@ -1,1 +1,4 @@
-Nothing should be ignored based on the provided file changes. The added files (README.md, req.txt) are source/config files that should be tracked in version control.
+```
+# Environment
+.env
+```
